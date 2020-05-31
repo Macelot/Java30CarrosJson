@@ -1,0 +1,182 @@
+[
+  {
+    "nome": "gol",
+    "marca": "volksvagen",
+    "preco": "40,000.00",
+    "portas": 4
+  },
+  {
+    "nome": "polo",
+    "marca": "volksvagen",
+    "preco": "70,000.00",
+    "portas": 4
+  },
+  {
+    "nome": "golf",
+    "marca": "volksvagen",
+    "preco": "110,000.00",
+    "portas": 4
+  },
+  {
+    "nome": "CORSA",
+    "marca": "chevrolet",
+    "preco": "50,000.00",
+    "portas": 4
+  },
+  {
+    "nome": "cruze",
+    "marca": "chevrolet",
+    "preco": "100,000.00",
+    "portas": 4
+  },
+  {
+    "nome": "camaro",
+    "marca": "chevrolet",
+    "preco": "200,000.00",
+    "portas": 2
+  },
+  {
+    "nome": "mobi",
+    "marca": "Fiat",
+    "preco": "41,000.00",
+    "portas": 4
+  },
+  {
+    "nome": "argo",
+    "marca": "Fiat",
+    "preco": "49,000.00",
+    "portas": 4
+  },
+  {
+    "nome": "strada",
+    "marca": "Fiat",
+    "preco": "92,000.00",
+    "portas": 2
+  },
+  {
+    "nome": "TORO",
+    "marca": "Fiat",
+    "preco": "129,000.00",
+    "portas": 4
+  },
+  {
+    "nome": "série 1",
+    "marca": "BMW",
+    "preco": "90,000.00",
+    "portas": 4
+  },
+  {
+    "nome": "118i",
+    "marca": "BMW",
+    "preco": "250,000.00",
+    "portas": 4
+  },
+  {
+    "nome": "x5",
+    "marca": "BMW",
+    "preco": "250,000.00",
+    "portas": "4"
+  },
+  {
+    "nome": "a3",
+    "marca": "AUDI",
+    "preco": "97,000.00",
+    "portas": 4
+  },
+  {
+    "nome": "a4",
+    "marca": "AUDI",
+    "preco": "199,000.00",
+    "portas": 4
+  },
+  {
+    "nome": "a8",
+    "marca": "AUDI",
+    "preco": "220,000.00",
+    "portas": 4
+  },
+  {
+    "nome": 208,
+    "marca": "peugeot",
+    "preco": "59,990.00",
+    "portas": 4
+  },
+  {
+    "nome": 2008,
+    "marca": "peugeot",
+    "preco": "74,990.00",
+    "portas": 4
+  },
+  {
+    "nome": 3008,
+    "marca": "peugeot",
+    "preco": "174,690.00",
+    "portas": 4
+  },
+  {
+    "nome": "Etios",
+    "marca": "TOYOTA",
+    "preco": "42,990.00",
+    "portas": 4
+  },
+  {
+    "nome": "Corolla",
+    "marca": "TOYOTA",
+    "preco": "114,990.00",
+    "portas": 4
+  },
+  {
+    "nome": "SW4",
+    "marca": "TOYOTA",
+    "preco": "250,000.00",
+    "portas": 4
+  },
+  {
+    "nome": "fusion",
+    "marca": "ford",
+    "preco": "95,000.00",
+    "portas": 4
+  },
+  {
+    "nome": "focus",
+    "marca": "ford",
+    "preco": "75,000.00",
+    "portas": 4
+  },
+  {
+    "nome": "mustang",
+    "marca": "ford",
+    "preco": "250,000.00",
+    "portas": 2
+  },
+  {
+    "nome": "renegade",
+    "marca": "jeep",
+    "preco": "99,000.00",
+    "portas": 4
+  },
+  {
+    "nome": "compass",
+    "marca": "jeep",
+    "preco": "165,000.00",
+    "portas": 4
+  },
+  {
+    "nome": "cherokee",
+    "marca": "jeep",
+    "preco": "149,000.00",
+    "portas": 4
+  },
+  {
+    "nome": "HB20",
+    "marca": "HYUNDAI",
+    "preco": "44,900.00",
+    "portas": 4
+  },
+  {
+    "nome": "Tucson",
+    "marca": "HYUNDAI",
+    "preco": "150,000.00",
+    "portas": 4
+  }
+]
